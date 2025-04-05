@@ -3,8 +3,8 @@ export const METADATA = {
   title: "Portfolio | Muhammed Souban",
   description:
     "Muhammed Souban is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
-  siteUrl: "https://www.shubhporwal.me/",
-  twitterHandle: "@shubhporwal24",
+  siteUrl: "https://souban-eight.vercel.app/",
+  twitterHandle: "@Souban_",
   keywords: [
     "Muhammed Souban",
     "Frontend Engineer",
@@ -15,7 +15,7 @@ export const METADATA = {
     "Folio",
   ].join(", "),
   image:
-    "https://res.cloudinary.com/dywdhyojt/image/upload/v1721378510/social-preview.png",
+    "https://res.cloudinary.com/dimvacpif/image/upload/t_updated-portfolio-thumbail/food-delivery/foods/z7vjzicjjdjuvhfwhjl9",
   language: "English",
   themeColor: "#000000",
 };
